@@ -1,7 +1,9 @@
 <h1>
     <img src="Editor/Icons/TextEffect.png" alt="Icon" width="30" style="vertical-align: middle;"> 
-    Easy Text Effects for Unity
+    Easy Text Effects for Unity (❗Looking for Maintainers❗)
 </h1>
+
+**Looking for Maintainers**: see https://github.com/LeiQiaoZhi/Easy-Text-Effects-for-Unity/issues/38
 
 [![openupm](https://img.shields.io/npm/v/com.qiaozhilei.easy-text-effects?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.qiaozhilei.easy-text-effects/) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qiaozhilei)
 
